@@ -113,7 +113,7 @@ bool _validateISBN13(String isbn) {
     if (pickedFile != null) {
       selectedImage.value = File(pickedFile.path);
     } else {
-      customSnackbar(title: 'No Image Selected',message:  'Please select an image to upload.');
+      customSnackbar(title: 'No Image Selected',message:  'Please select an image to upload.see thos off');
     }
   }
 
