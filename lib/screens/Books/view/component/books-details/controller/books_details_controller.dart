@@ -103,7 +103,7 @@ class BookDetailsController extends GetxController {
         //   }
         // }
       } else {
-        print("Book not found in global collection.");
+        print("Book not found in global collection.gjhgj");
       }
       });
        
