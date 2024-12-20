@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "691206438005",
+    "project_id": "reedinook",
+    "storage_bucket": "reedinook.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691206438005:android:d9de35d0e811d960350c3c",
+        "android_client_info": {
+          "package_name": "com.example.reedinook"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiFKcmgVnX0LDUS0YMNz2GusmlG7xRuWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
