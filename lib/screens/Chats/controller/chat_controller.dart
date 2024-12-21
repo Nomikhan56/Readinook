@@ -73,7 +73,7 @@ class ChatController extends GetxController {
       'type' : 'messages',
     });
   } catch (e) {
-    customSnackbar(title: "Error",message:  "Failed to send message");
+    customSnackbar(title: "Error",message:  "Failed to send message hgfhgf");
   } finally {
     isLoading.value = false;
   }
