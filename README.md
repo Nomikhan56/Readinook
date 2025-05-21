@@ -1,4 +1,4 @@
-# reedinook
+# Readinook
 
 Readinook is an android based application developed for reader, it works as a social media 
 platform where the allowing readers to share their thoughts and connect with each other. 
